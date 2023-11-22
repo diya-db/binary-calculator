@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/binary-calc/static/css/main.f6c779b6.css",
-    "main.js": "/binary-calc/static/js/main.1230b202.js",
-    "static/js/787.82cdad78.chunk.js": "/binary-calc/static/js/787.82cdad78.chunk.js",
-    "index.html": "/binary-calc/index.html",
-    "main.f6c779b6.css.map": "/binary-calc/static/css/main.f6c779b6.css.map",
-    "main.1230b202.js.map": "/binary-calc/static/js/main.1230b202.js.map",
-    "787.82cdad78.chunk.js.map": "/binary-calc/static/js/787.82cdad78.chunk.js.map"
+    "main.css": "/binary-calculator/static/css/main.f6c779b6.css",
+    "main.js": "/binary-calculator/static/js/main.0cd71c01.js",
+    "static/js/787.c82ff060.chunk.js": "/binary-calculator/static/js/787.c82ff060.chunk.js",
+    "index.html": "/binary-calculator/index.html",
+    "main.f6c779b6.css.map": "/binary-calculator/static/css/main.f6c779b6.css.map",
+    "main.0cd71c01.js.map": "/binary-calculator/static/js/main.0cd71c01.js.map",
+    "787.c82ff060.chunk.js.map": "/binary-calculator/static/js/787.c82ff060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6c779b6.css",
-    "static/js/main.1230b202.js"
+    "static/js/main.0cd71c01.js"
   ]
 }
